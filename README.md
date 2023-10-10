@@ -2,4 +2,7 @@
 
 ## some placeholder information about this repository
 
-## Changes approved (Dan)
+### this line is unique information in the readme_edits branch
+
+### Changes approved
+
