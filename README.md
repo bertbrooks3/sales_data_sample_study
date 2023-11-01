@@ -1,8 +1,5 @@
 # sales_data_sample_study
 
-## some placeholder information about this repository
+## this is a sample repository to practice using GitHub
 
-### this line is unique information in the readme_edits branch
-
-### Changes approved
-
+## we will conduct some analysis of a sample sales data file as a learning exampl
